@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     
 setup(
     name='genaiproject',
-    version='0.0.1',
+    version='0.0.3',
     author='bimal-bp',
     author_email='bimalpatrap@gmail.com',
     packages=find_packages(),
