@@ -1,0 +1,1 @@
+# News_extrator_GENAI_project
