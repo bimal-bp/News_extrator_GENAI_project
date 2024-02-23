@@ -32,7 +32,8 @@ if process_url_clicked:
     # data load
     loader=UnstructuredURLLoader(urls=urls)
     main_placeholder.text(" Data Loading is on:")
-    data=loader.load()
+    data=loader.load
+    ()
 
     # spliting data
     text_splitter=RecursiveCharacterTextSplitter(
